@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  font-family: 'Poppins', sans-serif;}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.btn-outline-info:hover{
+  background-color: #107570 !important
+}
+
+
+.bg-hsl{
+  background-color: #107570;
+  height: 39px;
+}
+.button-radius{
+  border-radius: 0px !important;
+  border-color:  white !important;
+  background-color: #107570 !important
+}
+.verification-mark{
+  width: 20px;
+  height:20px !important;
+  background-color: #34E300;
+  border: 2px solid white;
+  border-radius:  50%;
+  justify-content: end;
+  /* position: relative;
+  bottom: 30px;
+  right: 50px; */
+  margin-right: 17%;
+  margin-top: -20%;
+}
+.owl-border{
+  position:absolute;
+  border: 1px solid #107570;
+  border-radius: 15px
+}
+.star-style{
+  color: #ffc400;
+  width:"70px" !important
+}
+.text-yellow{
+  color:"#ffc400"
+}
+.content-space{
+  justify-content: space-between;
+}
+.secondary-color{
+  color: #1dcba9;
+}
+.primary-color{
+  color: #107570;
+}
+.verf-color{
+  background-color: #1DCBA9 !important;
+}
+.owl-margin{
+  justify-content: space-between;
+}
+.backcolor{
+  background-color: #107570;
+  height: 50px;
+}
+.btn-info{
+  background-color: #107570 !important; 
+}
+.btn-border{
+  border: 1px solid white !important
+}
+.font-weight{
+  font-weight: 900;
+}
+.back-info{
+  background-color: #107570
+}
+text-white{
+  color: white
+}
+.fonty{
+  font-weight: 800
+}
